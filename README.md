@@ -14,7 +14,7 @@ This is a **Wallpaper App** where you can **download** and **share wallpapers** 
 
 Here’s a preview of the app in action:  
 
- ![Uploading Screen_Recording_20250210-214321_WallpaperCarousel.gif…]()
+https://github.com/user-attachments/assets/4b557718-251e-48e2-970c-56c18832e472
 
 ## 🚀 Getting Started  
 
